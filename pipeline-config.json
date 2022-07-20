@@ -1,0 +1,8 @@
+{
+  "appName":"go-test",
+  "version":"2.0",
+  "Containerization":"true",
+  "registry": "registry-demo.kaiburr.com",
+  "repo": "registry-demo.kaiburr.com/sample",
+  "imageName": "go"
+}
